@@ -1,16 +1,31 @@
-## Hi there 👋
+# Manoj Kumar Pyapli
 
-<!--
-**manojpyapli/manojpyapli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer focused on Backend Development and NLP-based applications.
 
-Here are some ideas to get you started:
+## 🌐 Portfolio
+https://manoj-kumar-pyapli-portfolio.vercel.app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### AI-Powered Portfolio Chatbot
+A portfolio website integrated with a Bag-of-Words NLP chatbot built using FastAPI and deployed on Render.
+
+Tech Stack:
+- Python
+- FastAPI
+- NLTK
+- HTML, CSS, JavaScript
+- Vercel (Frontend)
+- Render (Backend)
+
+## 💻 Skills
+- Java
+- Python
+- FastAPI
+- NLP Basics
+- SQL
+- HTML, CSS, JavaScript
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/manoj-kumar-pyapli-a708121b6/
+GitHub: https://github.com/manojpyapli
