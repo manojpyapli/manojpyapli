@@ -3,7 +3,7 @@
 Aspiring Software Developer focused on Backend Development and NLP-based applications.
 
 ## 🌐 Portfolio
-https://manoj-kumar-pyapli-portfolio.vercel.app
+https://nlp-portfolio-chatbot.vercel.app/
 
 ## 🚀 Projects
 
